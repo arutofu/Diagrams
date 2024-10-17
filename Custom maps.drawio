@@ -1,49 +1,348 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3733" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="UY7usDceXEYGodv1GObX-132" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-825" y="550" width="2465" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-1" target="UY7usDceXEYGodv1GObX-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="UY7usDceXEYGodv1GObX-1" value="Запускаем симулятор" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="UY7usDceXEYGodv1GObX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-4" target="UY7usDceXEYGodv1GObX-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-62" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-53">
+          <mxGeometry x="-0.846" y="-2" relative="1" as="geometry">
+            <mxPoint x="54" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="UY7usDceXEYGodv1GObX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-4" target="UY7usDceXEYGodv1GObX-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="UY7usDceXEYGodv1GObX-154" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-54">
+          <mxGeometry x="-0.286" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="UY7usDceXEYGodv1GObX-4" value="Есть папка Custom?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="890" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Проверка директорий.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Примерная структура папок: &lt;u&gt;&lt;font color=&quot;#00cc00&quot;&gt;&quot;директория симулятора&quot;/Custom/Levels/&quot;название уровня&quot;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;.&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Пользователь сам создает папку с названием желаемого уровня, закидывает туда модель уровня и (опционально) картинку для превью уровня во вкладке уровни симулятора.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Важно! Не сохранять полученные данные навсегда. При каждом запуске считывать и сохранять их временно, например, превью картинки или.&lt;/h1&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" width="1670" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-23" target="UY7usDceXEYGodv1GObX-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="1204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="UY7usDceXEYGodv1GObX-63" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-56">
+          <mxGeometry x="-0.3392" y="-1" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="UY7usDceXEYGodv1GObX-23" value="Есть папка Levels?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1094" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="UY7usDceXEYGodv1GObX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-29" target="UY7usDceXEYGodv1GObX-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406.5" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-64" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-58">
+          <mxGeometry x="-0.4775" y="2" relative="1" as="geometry">
+            <mxPoint y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-29" target="UY7usDceXEYGodv1GObX-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1840" />
+              <mxPoint x="810" y="2599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-29" value="Есть файл&lt;br&gt;&amp;nbsp;карты? (объекта)&lt;br&gt;&lt;u&gt;.fbx&lt;/u&gt;, &lt;u&gt;.obj&lt;/u&gt;..." style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570.5" y="1780" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-38" target="UY7usDceXEYGodv1GObX-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570.5" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-65" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-59">
+          <mxGeometry x="-0.4704" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-38" target="UY7usDceXEYGodv1GObX-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="207.5" y="2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-66" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-60">
+          <mxGeometry x="-0.4947" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-38" value="Есть картинка &lt;br&gt;для превью?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343.8399999999999" y="2000" width="119" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-67" target="UY7usDceXEYGodv1GObX-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="301.5" y="1114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-69" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-68">
+          <mxGeometry x="-0.4632" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-67" value="Есть папка Levels?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="989" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-72" target="UY7usDceXEYGodv1GObX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-72" value="Симулятор проверяет свою директорию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-74" target="UY7usDceXEYGodv1GObX-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="959" y="1094" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-74" value="Создать папку Custom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="1004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-76" value="Создать папку Levels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="907" y="1194" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-77" target="UY7usDceXEYGodv1GObX-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-77" value="Получить список всех папок в директории /Levels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240.5" y="1104" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-79" target="UY7usDceXEYGodv1GObX-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-88" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-87">
+          <mxGeometry x="-0.2364" y="1" relative="1" as="geometry">
+            <mxPoint x="57" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-79" value="&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="253" y="1194" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-92" target="UY7usDceXEYGodv1GObX-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70.5" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-92" value="Для каждой папки" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20.5" y="1360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-93" value="Повторить" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575.5" y="2660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-107" value="CustomLevelName" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322.8399999999999" y="2554" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-109" value="Image (.png, .img...)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UY7usDceXEYGodv1GObX-107">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-110" value="Object (.fbx, .obj...)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UY7usDceXEYGodv1GObX-107">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-111" value="CustomLevelsList" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322.8399999999999" y="2390" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-112" value="CustomLevelName_1&lt;div&gt;CustomLevelName_2&lt;br&gt;...&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UY7usDceXEYGodv1GObX-111">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-112" target="UY7usDceXEYGodv1GObX-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-176" value="Вложенный список" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-115">
+          <mxGeometry x="0.1842" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-119" target="UY7usDceXEYGodv1GObX-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-119" value="Перейти в папку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10.830000000000041" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-122" target="UY7usDceXEYGodv1GObX-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70.5" y="1500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-122" value="Получить название &lt;br&gt;уровня&lt;br&gt;из имени папки" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-17.25" y="1440" width="175.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-127" target="UY7usDceXEYGodv1GObX-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-127" value="Получить этот объект&amp;nbsp;&lt;br&gt;(в переменную?)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="316" y="1910" width="175.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-129" target="UY7usDceXEYGodv1GObX-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-129" value="Добавить в список карт &lt;b&gt;CustomLevelList&lt;/b&gt; новый объект, имя которого - это название карты &lt;b&gt;(вместо CustomLevelName)&lt;/b&gt;, с полями:&lt;ol&gt;&lt;li&gt;Image&lt;/li&gt;&lt;li&gt;Object&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300.5" y="2200" width="184.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-130" value="Получить картинку&lt;br&gt;(в переменную?)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="2110" width="175.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-130" target="UY7usDceXEYGodv1GObX-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.5" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-135" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E27609;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-818.5" y="8240" width="2479" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-137" target="UY7usDceXEYGodv1GObX-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-137" value="Использовать заготовленную" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510.5" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-107" target="UY7usDceXEYGodv1GObX-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-146" target="UY7usDceXEYGodv1GObX-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-146" value="i = 0, до CustomLevelList&amp;nbsp;&lt;br&gt;(до кол-ва в списке)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-154.5" y="6603" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-147" value="i++" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-154.5" y="6863" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-148" target="UY7usDceXEYGodv1GObX-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-148" target="UY7usDceXEYGodv1GObX-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-148" value="Добавить в меню выбора карт новую ячейку для этой карты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-164.5" y="6683" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-150" value="Выключить поля:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &quot;Включить задания&quot;&lt;/li&gt;&lt;li&gt;&quot;Добавить туман&quot;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-194.5" y="6763" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-150" target="UY7usDceXEYGodv1GObX-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-155" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#09E226;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-817.5" y="6400" width="2475" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-156" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Данные получены, дальше нужно обновить вкладку с картами.&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-427.5" y="6070" width="1680" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="UY7usDceXEYGodv1GObX-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1027.5" y="6579.95" as="targetPoint" />
+            <mxPoint x="657.5" y="6702.95" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="744.5" y="6703" />
+              <mxPoint x="744.5" y="6570" />
+              <mxPoint x="1027.5" y="6570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-157" value="Виджет в котором находятся плитки с картами должен содержать список, который сам заполняет доступное пространство и ставит плитки с картами и их найстройки/доступные миссии из списка карт.&amp;nbsp;&lt;br&gt;&lt;br&gt;Это нужно для того, чтобы мы могли менять этот список, например, добавить ползовательскую карту в список, которую нашли в папке Custom/Levels" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="108.5" y="6550" width="549" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-161" target="UY7usDceXEYGodv1GObX-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-161" value="Примерный вид списка:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="832.5" y="6610" width="390" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-161" target="UY7usDceXEYGodv1GObX-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-163" value="MapsList" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="957.5" y="6700" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-164" value="MapName_1&lt;div&gt;MapName_2&lt;br&gt;...&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UY7usDceXEYGodv1GObX-163">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.526;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-170" target="UY7usDceXEYGodv1GObX-173">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385.5" y="7270" as="targetPoint" />
+            <mxPoint x="1015.5" y="7180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-169" value="MapName" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="917.5" y="6850" width="220" height="150" as="geometry">
+            <mxRectangle x="912" y="3330" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-170" value="&lt;ul&gt;&lt;li&gt;Есть ли миссии&lt;/li&gt;&lt;li&gt;Список миссий (если есть)&lt;/li&gt;&lt;li&gt;Можно ли включить туман&lt;/li&gt;&lt;li&gt;Пользователькая ли это карта?&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UY7usDceXEYGodv1GObX-169">
+          <mxGeometry y="30" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-164" target="UY7usDceXEYGodv1GObX-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-174" value="Вложенный список" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-171">
+          <mxGeometry x="0.2228" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-173" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Возможно, нужно иметь два таких списка:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Оригинальный, только со встроенными картами.&amp;nbsp;&lt;/span&gt;&lt;u&gt;Сохраняется после выхода из игры.&lt;/u&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Копия оригинального, изменяется динамически, в него добавляются пользовательские карты.&lt;/span&gt;&amp;nbsp;&lt;u&gt;Не сохраняется после выхода из игры.&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Брать второй список для заполнения владки уровней.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="108.5" y="7120" width="549" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-178" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Необходимо чтобы игра создавала карту из объекта в этой же папке /Custom/Levels/&quot;название карты&quot;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-472.49999999999994" y="7910" width="1680" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-179" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E27609;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-818.5" y="3490" width="2479" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-180" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Создаем карту для UE формата &quot;.umap&quot; (как package или asset). Необходимо чтобы ассет карты создавался в той же папке, которую создал пользователь (Levels/&lt;u&gt;&quot;название уровня&quot;&lt;/u&gt;).&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;В C++ &quot;&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;UPackage::SavePackage&quot;.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-472.5" y="3160" width="1680" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-182" value="Выйти из папки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565.5" y="2569" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-182" target="UY7usDceXEYGodv1GObX-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-185" target="UY7usDceXEYGodv1GObX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-188" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-187">
+          <mxGeometry x="-0.5858" y="-2" relative="1" as="geometry">
+            <mxPoint x="-22" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UY7usDceXEYGodv1GObX-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="1786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-190" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UY7usDceXEYGodv1GObX-189">
+          <mxGeometry x="-0.0707" y="3" relative="1" as="geometry">
+            <mxPoint x="118" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UY7usDceXEYGodv1GObX-185" value="Есть ассет уровня &lt;u&gt;.umap&lt;/u&gt;?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15.5" y="1700" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
